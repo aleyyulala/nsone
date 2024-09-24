@@ -1,0 +1,82 @@
+body {
+    color: white;
+    background-color: black;
+    font-size: 33.33px;
+    font-family: Arial;
+    margin: 33.33px;
+}
+
+.parent {
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(33.33px);
+}
+
+.outer {
+    display: table;
+    position: absolute;
+    top: 33.33px;
+    left: 33.33px;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    min-width: 320px;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: rgba(40, 40, 40, 0.9);
+
+.avatar {
+    margin-top: 33.33px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 130.66px;
+    height: 130.66px;
+}
+
+img {
+    height: 42.66px;
+    margin: 13.33px 10px 13.33px 10px;
+    visibility: hidden;
+}
+
+.avatar_view {
+    border-radius: 16px;
+    width: 130.66px;
+    height: 130.66px;
+    margin: 0px;
+    visibility: unset;
+}
+
+.logos {
+    background-color: rgba(40, 40, 40, 0.6);
+    border-radius: 33.33px;
+    width: fit-content;
+    height: 33.33px;
+    border: 33.33px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 33.33px;
+    color: transparent;
+    overflow: hidden;
+    font-size: 33.33px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer {
+    font-size: 33.33px;
+    font-family: Arial;
+    margin: 33.33px;
+}
