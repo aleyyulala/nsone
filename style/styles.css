@@ -9,7 +9,7 @@ body {
 .parent {
     background: url(../images/background.jpg) no-repeat center center fixed;
     background-size: cover;
-    filter: blur(3.33px);
+    filter: blur(80px);
 }
 
 .outer {
