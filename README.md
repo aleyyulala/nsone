@@ -6,7 +6,7 @@
 <h5 align="center">
 
 <p align="center">
-  Hi, I'm Pluz, Pluzman <br>
+  Hi, I'm Pluz, aleyul.ala <br>
   I'm Interested in promoter
   <br>
 </p>
