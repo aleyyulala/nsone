@@ -33,7 +33,7 @@ body {
     min-width: 320px;
     border-radius: 15px;
     padding: 15px;
-    background-color: rgba(37, 150, 190, 0.4);
+    background-color: rgba(45, 150, 102, 0.4);
 
 .avatar {
     margin-top: 33.33px;
@@ -58,7 +58,7 @@ img {
 }
 
 .logos {
-    background-color: rgba(37, 150, 190, 0.4);
+    background-color: rgba(45, 150, 102, 0.4);
     border-radius: 33.33px;
     width: fit-content;
     height: 33.33px;
